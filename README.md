@@ -9,7 +9,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 
-### Telegramm: @artembakuninn
+### Telegram: @artembakuninn
 ### MailMe: artem.bakunin76@gmail.com
 
 
