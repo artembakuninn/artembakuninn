@@ -10,5 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
+![Foundation](https://img.shields.io/badge/-Foundation-090909?style=for-the-badge&logo=Foundation)
+
 
 
